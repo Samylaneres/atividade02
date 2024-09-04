@@ -5,3 +5,4 @@ valc = int(input("sua temperatura aqui"))
 fahrenheit =valc * 9/5+ 32
 
 print(F"sua temperatura em Fahrenheit é {fahrenheit}")
+
